@@ -2,7 +2,7 @@
 
 Simple, upload the files to the host, open your nav, and run. Follow me on Twitter ([@alvaroaraoz][]).
 
-[@alvaroaraoz][[http://twitter.com/alvaroaraoz]
+[@alvaroaraoz]: http://twitter.com/alvaroaraoz
 
 ## License 
 
